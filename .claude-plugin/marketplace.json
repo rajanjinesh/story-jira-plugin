@@ -1,0 +1,15 @@
+{
+  "name": "story-marketplace",
+  "owner": {
+    "name": "rajanjinesh",
+    "email": "rajanjinesh@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "story-jira",
+      "source": "./",
+      "description": "Turns a project's prd.md into approved user stories in stories.md, then creates them as Jira Stories.",
+      "version": "1.0.0"
+    }
+  ]
+}
